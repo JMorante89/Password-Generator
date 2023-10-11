@@ -1,4 +1,4 @@
-# [Password Generator](http://google.com)
+# [Password Generator](https://jmorante89.github.io/Password-Generator/)
 
 ## Table of Contents
   - [Description](#description📝)
@@ -14,36 +14,36 @@
 
 ## Installation💻
   The provided URL will redirect users to a user-friendly website, obviating the need for any user-initiated installations. This application supports most browsers.
-  [Live Demo Link](http://google.com) 
+  [Live Demo Link](https://jmorante89.github.io/Password-Generator/) 
 
 ## Usage👨‍💻
   ### Homepage, shows the user basic instructions on how to use the application.
-  # ![](./Develop/assets/images/PasswordGeneratorHomepage.png)
+  # ![](./assets/images/PasswordGeneratorHomepage.png)
 
   ### "Click" the Generate Password button to start the application.
-  # ![](./Develop/assets/images/PasswordGeneratoStartButton.png)
+  # ![](./assets/images/PasswordGeneratoStartButton.png)
 
   ### An "Alert" will begin with a prompt for user to choose between 8 to 128 characters.
-  # ![](./Develop/assets/images/HowManyCharacters.png)
+  # ![](./assets/images/HowManyCharacters.png)
 
   ### Second "Prompt" will ask user is they need UPPERCASE letters in their password. 
-  # ![](./Develop/assets/images/UppercaseLetters.png)
+  # ![](./assets/images/UppercaseLetters.png)
   
 
   ### Third "Prompt" will ask user if they need lowercase letters.   
-  # ![](./Develop/assets/images/LowercaseLetters.png)
+  # ![](./assets/images/LowercaseLetters.png)
 
 
   ### Fourth "Prompt" will ask user if they need numbers included.
-  # ![](./Develop/assets/images/Numbers.png)
+  # ![](./assets/images/Numbers.png)
 
 
   ### Last "Prompt" will ask user if they need special characters in their password.
-  # ![](./Develop/assets/images/SpecialCharacters.png)
+  # ![](./assets/images/SpecialCharacters.png)
 
 
   ### Final product will be user password inside the dotted box.
-  # ![](./Develop/assets/images/FinalProduct.png)
+  # ![](./assets/images/FinalProduct.png)
 
 
 ## Features🎁
