@@ -47,9 +47,9 @@
 
 
 ## Features🎁
-   ### Easy user interface.   
-   ### Secure password management.  
-   ### Secure password creation using JavaScript
+   ### - Easy user interface.   
+   ### - Secure password management.  
+   ### - Secure password creation using JavaScript
 
 ## Credits📣
   Daniel Morante 
